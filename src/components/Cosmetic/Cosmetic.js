@@ -13,6 +13,7 @@ const Cosmetic = (props) => {
   };
 
   //   const addToCartWIthParam = () => addToCart(id);
+
   return (
     <div className="product">
       <h2>Buy this: {name} </h2>
